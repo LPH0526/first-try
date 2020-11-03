@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is free software.asdasd啊啥的啊啥的哎等啊啥的
+Git is free software.asdasd
